@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DikaoRpgSimulator", "DikaoRpgSimulator.csproj", "{9EBA391B-CB82-4EDF-A373-3D0C2F31DCD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DikaoRpgSimulator.Data", "..\DikaoRpgSimulator.Data\DikaoRpgSimulator.Data.csproj", "{1234EE80-9CC8-42B5-92A9-56C5B0F8F515}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DikaoRpgSimulator.Domain", "..\DikaoRpgSimulator.Domain\DikaoRpgSimulator.Domain.csproj", "{FD5DBA6E-146B-4621-8F25-27682C06E91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DikaoRpgSimulator.Tests", "..\DikaoRpgSimulator.Tests\DikaoRpgSimulator.Tests.csproj", "{87B5157D-B85F-4676-A18F-C494B8CBF006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBA391B-CB82-4EDF-A373-3D0C2F31DCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBA391B-CB82-4EDF-A373-3D0C2F31DCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBA391B-CB82-4EDF-A373-3D0C2F31DCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBA391B-CB82-4EDF-A373-3D0C2F31DCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1234EE80-9CC8-42B5-92A9-56C5B0F8F515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1234EE80-9CC8-42B5-92A9-56C5B0F8F515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1234EE80-9CC8-42B5-92A9-56C5B0F8F515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1234EE80-9CC8-42B5-92A9-56C5B0F8F515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5DBA6E-146B-4621-8F25-27682C06E91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5DBA6E-146B-4621-8F25-27682C06E91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5DBA6E-146B-4621-8F25-27682C06E91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5DBA6E-146B-4621-8F25-27682C06E91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B5157D-B85F-4676-A18F-C494B8CBF006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B5157D-B85F-4676-A18F-C494B8CBF006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B5157D-B85F-4676-A18F-C494B8CBF006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B5157D-B85F-4676-A18F-C494B8CBF006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADCACDBA-3990-4832-BCA1-BC8F039E8D7E}
+	EndGlobalSection
+EndGlobal

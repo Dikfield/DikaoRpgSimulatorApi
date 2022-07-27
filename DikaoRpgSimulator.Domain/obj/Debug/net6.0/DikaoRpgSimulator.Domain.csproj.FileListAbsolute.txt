@@ -1,0 +1,51 @@
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.AssemblyReference.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfoInputs.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfo.cs
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.deps.json
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.runtimeconfig.json
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.pdb
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CopyComplete
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\refint\DikaoRpgSimulator.Domain.dll
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.genruntimeconfig.cache
+C:\Users\Diogo\Documents\DikaoRpgSimulator\DikaoRpgSimulator.Domain\obj\Debug\net6.0\ref\DikaoRpgSimulator.Domain.dll
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.deps.json
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.runtimeconfig.json
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.dll
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.pdb
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.AssemblyReference.cache
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfoInputs.cache
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfo.cs
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CopyComplete
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\refint\DikaoRpgSimulator.Domain.dll
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.genruntimeconfig.cache
+D:\Documents\Programming codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\ref\DikaoRpgSimulator.Domain.dll
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.deps.json
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.runtimeconfig.json
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.dll
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\bin\Debug\net6.0\DikaoRpgSimulator.Data.pdb
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.AssemblyReference.cache
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfoInputs.cache
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.AssemblyInfo.cs
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.csproj.CopyComplete
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.dll
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\refint\DikaoRpgSimulator.Domain.dll
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.pdb
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\DikaoRpgSimulator.Domain.genruntimeconfig.cache
+D:\Documents\Codes\DikaoRpgSimulator - Copy\DikaoRpgSimulator.Domain\obj\Debug\net6.0\ref\DikaoRpgSimulator.Domain.dll
